@@ -69,9 +69,11 @@ http://localhost/boutique-dbms/
 - 🔹 Mobile App support  
 - 🔹 Advanced sales insights
 
-  ```bash
+
+  
 # Clone the repository
-git clone 
+```bash
+git clone https://github.com/Ananya-Peddamgari/Boutique-management-system-Web-Application.git
 
 ---
 
