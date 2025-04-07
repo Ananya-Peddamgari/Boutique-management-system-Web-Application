@@ -1,11 +1,10 @@
 # 👗 Boutique Database Management System  
 
-![XAMPP](https://img.shields.io/badge/XAMPP-Installed-orange?style=flat&logo=xampp)  
-![PHP](https://img.shields.io/badge/PHP-7.4%2B-blue?style=flat&logo=php)  
-![MySQL](https://img.shields.io/badge/MySQL-Database-4479A1?style=flat&logo=mysql)  
-![License](https://img.shields.io/badge/License-MIT-green)
 
 ---
+## 🏗️ Application Structure
+
+![Application Structure](reference-bm.png)
 
 ## ✨ Features  
 - ✅ Customer Management  
@@ -68,7 +67,11 @@ http://localhost/boutique-dbms/
 ## 🔥 Future Enhancements  
 - 🔹 AI-based recommendations  
 - 🔹 Mobile App support  
-- 🔹 Advanced sales insights  
+- 🔹 Advanced sales insights
+
+  ```bash
+# Clone the repository
+git clone 
 
 ---
 
